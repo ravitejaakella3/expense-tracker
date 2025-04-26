@@ -23,7 +23,7 @@ The Expense Tracker application is a full-stack solution designed to help users 
 ### Clone Repository
 ```bash
 # Clone the repository
-git clone https://github.com/ravitejaakella3
+git clone https://github.com/ravitejaakella3/expense-tracker
 ```
 ---
 
